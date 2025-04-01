@@ -1,0 +1,41 @@
+Week 2: System Design & Initial Development
+
+Objectives:
+
+Designing the system architecture.
+
+Setting up the development environment.
+
+Creating initial frontend and backend components.
+
+
+
+Tasks Completed:
+
+Created wireframes for the web application.
+
+Designed the database schema to store expert and candidate details.
+
+Set up React.js for frontend and Node.js with Express.js for backend.
+
+Developed the initial homepage and navigation bar.
+
+Implemented user authentication (basic login and registration system).
+
+
+
+Challenges Faced:
+
+Ensuring secure authentication using JWT.
+
+Optimizing database schema for scalability.
+
+
+
+Next Steps:
+
+Implement candidate resume upload functionality.
+
+Develop the expert registration module.
+
+Work on the expert matching algorithm.
