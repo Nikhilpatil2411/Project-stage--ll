@@ -1,0 +1,39 @@
+
+Week 3: Backend Development & Database Integration
+Objectives:
+Develop the backend logic for expert-candidate matching.
+
+Implement database schema and establish API endpoints.
+
+Integrate authentication and role-based access control.
+
+
+
+Tasks Completed:
+Set up Flask backend and connected it with MongoDB.
+
+Created API endpoints for user authentication (JWT-based).
+
+Designed and implemented database schema for storing experts, candidates, and matching data.
+
+Developed logic for resume parsing and extracting key candidate skills.
+
+Implemented basic expert recommendation system based on domain and experience.
+
+
+
+Challenges Faced:
+Handling and processing different resume formats efficiently.
+
+Optimizing database queries for fast expert matching.
+
+Managing role-based authentication for admin, experts, and candidates.
+
+
+
+Next Steps:
+Develop an improved ML-based expert matching algorithm.
+
+Work on frontend integration with backend APIs.
+
+Start testing API functionalities using Postman.
