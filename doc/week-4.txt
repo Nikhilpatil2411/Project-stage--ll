@@ -1,0 +1,16 @@
+Week 4: Frontend Development 
+Objectives:
+•	Develop the frontend UI for candidate and expert dashboards.
+•	Implement a user-friendly matching results display.
+Tasks Completed:
+•	Built React-based frontend with basic navigation and dashboard layouts.
+•	Connected frontend with Flask APIs for fetching expert and candidate data
+•	Created forms for candidates to upload resumes and experts to update their profiles.
+Challenges Faced:
+•	Handling CORS issues while connecting frontend and backend.
+•	Designing an intuitive UI for users with minimal technical knowledge.
+Next Steps:
+•	Implement an expert matching program
+•	Deploy the backend and frontend for testing
+•	Start debugging and improving performance.
+
