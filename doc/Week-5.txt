@@ -1,0 +1,32 @@
+Week 5: Backend Enhancement & Matching Logic
+Objectives:
+
+Implement the expert-candidate matching algorithm using NLP.
+
+Enhance Flask API to handle matching requests.
+
+Begin testing and debugging of API responses.
+
+Tasks Completed:
+
+Integrated NLP-based skill extraction from candidate resumes.
+
+Developed a matching algorithm to compare candidate skills with expert domains.
+
+Enhanced Flask routes to return sorted expert matches.
+
+Improved error handling and logging for better debugging.
+
+Challenges Faced:
+
+Handling inconsistencies in resume formatting during parsing.
+
+Tuning the matching algorithm for higher relevance accuracy.
+
+Next Steps:
+
+Optimize matching logic for better speed and accuracy.
+
+Start frontend integration of real-time matching results.
+
+Prepare for deployment and testing on cloud.
