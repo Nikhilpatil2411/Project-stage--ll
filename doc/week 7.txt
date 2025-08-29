@@ -1,37 +1,39 @@
-Week 7: Additional Dashboards Development
+Week 7: Advanced Dashboard & Authentication
 
 Objectives:
 
-Design and implement User Dashboard for candidates.
+Develop and integrate Candidate Dashboard and Hiring Manager Dashboard.
 
-Develop Hiring Manager Dashboard to manage job postings and expert assignments.
+Store candidate and expert skills in the database for better matching.
 
-Ensure smooth navigation between multiple dashboards.
+Implement secure authentication using JWT.
 
 Tasks Completed:
 
-Created User Dashboard for candidates to view profile, resume status, and matched experts.
+Designed and built Candidate Dashboard with features to view/update profiles and track expert assignments.
 
-Developed Hiring Manager Dashboard with features to post job requirements and view matched candidates.
+Created Hiring Manager Dashboard to manage experts, review matched candidates, and oversee the recruitment process.
 
-Implemented role-based routing to manage candidate, expert, and manager access.
+Integrated backend APIs for storing and retrieving candidate & expert skills in the database.
 
-Enhanced UI with better layouts and responsive design for all dashboards.
+Implemented JWT-based authentication to secure login and API access.
+
+Connected dashboards with backend authentication flow.
 
 Challenges Faced:
 
-Managing role-based authentication and ensuring secure access control.
+Ensuring role-based access control between candidates, experts, and hiring managers.
 
-Designing scalable dashboard layouts while keeping UI simple and user-friendly.
+Handling secure token storage on the frontend.
 
-Synchronizing data between different dashboards and backend APIs.
+Structuring database tables efficiently for skills mapping.
 
 Next Steps:
 
-Add analytics/insights section for hiring managers (e.g., match success rate).
+Refine UI/UX of dashboards for smooth navigation.
 
-Improve UI consistency across all dashboards.
+Extend matching algorithm with the newly stored skills data.
 
-Begin preparing documentation for dashboard features.
+Begin testing of JWT authentication for scalability and session handling.
 
-Conduct user acceptance testing for newly added dashboards.
+Move towards Week 8: Skill-to-Expert Matching Integration.
