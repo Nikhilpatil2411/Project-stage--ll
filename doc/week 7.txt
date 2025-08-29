@@ -1,0 +1,37 @@
+Week 7: Additional Dashboards Development
+
+Objectives:
+
+Design and implement User Dashboard for candidates.
+
+Develop Hiring Manager Dashboard to manage job postings and expert assignments.
+
+Ensure smooth navigation between multiple dashboards.
+
+Tasks Completed:
+
+Created User Dashboard for candidates to view profile, resume status, and matched experts.
+
+Developed Hiring Manager Dashboard with features to post job requirements and view matched candidates.
+
+Implemented role-based routing to manage candidate, expert, and manager access.
+
+Enhanced UI with better layouts and responsive design for all dashboards.
+
+Challenges Faced:
+
+Managing role-based authentication and ensuring secure access control.
+
+Designing scalable dashboard layouts while keeping UI simple and user-friendly.
+
+Synchronizing data between different dashboards and backend APIs.
+
+Next Steps:
+
+Add analytics/insights section for hiring managers (e.g., match success rate).
+
+Improve UI consistency across all dashboards.
+
+Begin preparing documentation for dashboard features.
+
+Conduct user acceptance testing for newly added dashboards.
