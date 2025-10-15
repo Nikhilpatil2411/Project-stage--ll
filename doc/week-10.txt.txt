@@ -1,0 +1,27 @@
+Week 10: Application Count & Performance Analysis
+
+Objectives:
+
+Implement application count tracking for users and experts.
+
+Monitor system performance and optimize API response time.
+
+Prepare project for final testing and deployment.
+
+Tasks Completed:
+
+Added application count feature to track the number of candidates, experts, and matches.
+
+Displayed real-time counts on admin and hiring manager dashboards.
+
+Conducted performance analysis of APIs and optimized database queries.
+
+Tested system scalability with multiple user interactions.
+
+Challenges Faced:
+
+Ensuring real-time updates for counts without overloading the server.
+
+Handling large datasets during performance testing.
+
+Synchronizing count data across dashboards.

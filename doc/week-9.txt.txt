@@ -1,0 +1,35 @@
+Week 9: Nodemailer Integration & Notification System
+
+Objectives:
+
+Implement Nodemailer for automated email notifications.
+
+Send confirmation and status update emails to candidates and experts.
+
+Enhance system communication for better user engagement.
+
+Tasks Completed:
+
+Integrated Nodemailer with the backend to send automated emails.
+
+Configured email templates for registration confirmation, expert match updates, and password reset.
+
+Connected Flask backend with a secure SMTP service for email delivery.
+
+Tested email flow for candidate registration and expert assignment notifications.
+
+Challenges Faced:
+
+Managing email delivery errors due to incorrect SMTP configurations.
+
+Handling asynchronous email sending without affecting API response times.
+
+Ensuring emails are not flagged as spam by optimizing headers and content.
+
+Next Steps:
+
+Add email tracking for delivery success/failure.
+
+Customize email templates with branding and better design.
+
+Move toward Week 10: Application Count and Performance Analysis.
