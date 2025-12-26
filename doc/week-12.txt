@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Week 12: Documentation, Research Paper Preparation & Project Completion
 
 Objectives:
@@ -36,4 +37,44 @@ The project “Determining Expert Relevance with Respect to Interview Board Subj
 
 A research paper based on the project was prepared and made ready for publication.
 
+=======
+Week 12: Documentation, Research Paper Preparation & Project Completion
+
+Objectives:
+
+Finalize project documentation and logbook.
+
+Prepare a research paper for publication.
+
+Ensure the project meets all academic and technical requirements.
+
+Tasks Completed:
+
+Prepared complete project documentation, including system architecture, flowcharts, module descriptions, and technology stack.
+
+Updated the online logbook with detailed weekly progress.
+
+Drafted a research paper explaining the problem statement, methodology, system design, matching algorithm, and results.
+
+Included experimental analysis and discussion in the research paper.
+
+Identified suitable journals/conferences for paper submission.
+
+Reviewed and refined the project and research content for clarity and accuracy.
+
+Challenges Faced:
+
+Structuring technical content in research-paper format.
+
+Presenting matching results and methodology clearly and concisely.
+
+Aligning the project implementation with academic publication standards.
+
+Outcome:
+
+The project “Determining Expert Relevance with Respect to Interview Board Subject and Candidate’s Area of Expertise” was successfully completed.
+
+A research paper based on the project was prepared and made ready for publication.
+
+>>>>>>> a8900cf98d345ab17d70880e5414ebbe1f388836
 The system demonstrates effective expert–candidate matching using NLP and secure authentication mechanisms.

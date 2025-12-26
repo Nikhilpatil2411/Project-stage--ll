@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Week 11: Final Testing, Validation & Refinement
 
 Objectives:
@@ -34,4 +35,42 @@ Prepare complete project documentation.
 
 Organize screenshots, flowcharts, and architecture diagrams.
 
+=======
+Week 11: Final Testing, Validation & Refinement
+
+Objectives:
+
+Perform complete system testing without deployment.
+
+Validate expert–candidate matching accuracy.
+
+Improve system stability and security.
+
+Tasks Completed:
+
+Conducted end-to-end testing for candidate, expert, and hiring manager dashboards.
+
+Tested JWT authentication and role-based access control.
+
+Verified Nodemailer email notifications in the local environment.
+
+Fixed bugs related to skill matching, dashboard navigation, and API responses.
+
+Optimized backend logic and database queries for better performance.
+
+Challenges Faced:
+
+Handling edge cases in skill matching (partial or missing skills).
+
+Ensuring smooth data flow between multiple dashboards.
+
+Maintaining consistent behavior across different user roles.
+
+Next Steps:
+
+Prepare complete project documentation.
+
+Organize screenshots, flowcharts, and architecture diagrams.
+
+>>>>>>> a8900cf98d345ab17d70880e5414ebbe1f388836
 Move to Week 12: Project Documentation & Completion.
