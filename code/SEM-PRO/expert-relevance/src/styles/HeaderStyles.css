@@ -1,0 +1,22 @@
+.navigation-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100px;
+
+}
+
+.navigation-menu li{
+    margin:  0px 30px;
+}
+
+.navigation-menu a {
+    text-decoration: none;
+    color: #000;
+}
+
+.user-icon i {
+    font-size: 1.8rem;
+    margin-top: 5px;
+}

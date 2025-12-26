@@ -1,0 +1,11 @@
+expert_id,expert_name,skills,email
+1,John Expert,"React, Node.js, MongoDB, JavaScript, Express",rajmali0555@gmail.com
+2,Alice Expert,"Python, Django, Flask, SQL, REST API",rajmali0555@gmail.com
+3,Bob Developer,"Angular, TypeScript, RxJS, Node.js, MongoDB",harshalkothawade041@gmail.com
+4,Clara Data,"Python, Pandas, NumPy, Machine Learning, SQL",harshalkothawade041@gmail.com
+5,David Backend,"Java, Spring Boot, Hibernate, MySQL, REST API",harshalkothawade041@gmail.com
+6,Eva Frontend,"Vue.js, JavaScript, HTML, CSS, Tailwind,java,machine learning,data science,sql,python",harshalkothawade041@gmail.com
+7,Frank Fullstack,"React, Node.js, GraphQL, MongoDB, Docker",harshalkothawade041@gmail.com
+8,Grace AI,"Python, TensorFlow, PyTorch, NLP, Machine Learning",harshalkothawade041@gmail.com
+9,Henry DevOps,"Docker, Kubernetes, AWS, Jenkins, CI/CD",harshalkothawade041@gmail.com
+10,Irene Mobile,"Flutter, Dart, Firebase, REST API, Android",harshalkothawade041@gmail.com
